@@ -1,4 +1,4 @@
-# MemoMat - A serverless cloud notes Application
+# MemoMate - A serverless cloud notes Application
 
 ## Overview
 This application is a cloud-based note-taking app, built with a serverless architecture using AWS services and SST (Serverless Stack Toolkit). Users can create, edit, delete, and view notes.
